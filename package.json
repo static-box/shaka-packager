@@ -1,6 +1,6 @@
 {
   "name": "@static-box/shaka-packager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shaka-packager static files",
   "main": "dist/index.js",
   "scripts": {
